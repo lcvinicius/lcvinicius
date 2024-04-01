@@ -7,12 +7,12 @@ Olá! Sou o Lucas, um desenvolvedor back-end apaixonado por tecnologia, sempre b
 ## Tecnologias e Ferramentas
 
  <div style="display: inline_block"><br>
-   <img align="center" alt=Lucas-Java height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-   <img align="center" alt=Lucas-Java height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" /> 
-   <img align="center" alt=Lucas-Java height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-   <img align="center" alt=Lucas-Java height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-   <img align="center" alt=Lucas-Java height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
-   <img align="center" alt=Lucas-Java height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-line-wordmark.svg" />     
+   <img align="center" alt=Lucas-Java height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+   <img align="center" alt=Lucas-Java height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" /> 
+   <img align="center" alt=Lucas-Java height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+   <img align="center" alt=Lucas-Java height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+   <img align="center" alt=Lucas-Java height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
+   <img align="center" alt=Lucas-Java height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-line-wordmark.svg" />     
 </div>
 
 
